@@ -8,3 +8,9 @@ for the Department of Computer Science.
 - Department information
 - Faculty details
 - Course information
+
+
+## Future Development
+
+We plan to add faculty profiles,
+department events, and academic resources.
